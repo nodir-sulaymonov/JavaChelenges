@@ -1,6 +1,9 @@
 package com.company.JavaSysntax.Level4;
 
 
+
+
+
 import java.util.Scanner;
 
 public class PosNegNumber {
